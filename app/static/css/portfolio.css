@@ -1,0 +1,33 @@
+h1 {
+    color: gold  
+}
+
+.nav-link {
+    color:gold
+
+}
+
+
+.nav-link:hover {
+    color: white;
+}
+
+
+body {
+    background-image: url("../images/darkflower.jpg");
+    
+}
+
+.lead {
+    color: white;
+    text-align: right
+}
+
+#reccaps {
+    color: gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
